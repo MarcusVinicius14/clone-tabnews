@@ -1,2 +1,3 @@
 # clone-tabnews
-repositório criado com fins didáticos através curso.dev 
+
+repositório criado com fins didáticos através curso.dev
